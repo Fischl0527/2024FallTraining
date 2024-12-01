@@ -8,7 +8,7 @@
 | **web-000** | **8** | **8** | **8** |  |  |  |  | **blog000.cn** |
 | **web-Big_freeze_mouse** | **8** | **9** | **9** |  |  |  |  | **icemouse094.github.io** |
 | **web-chrizsty** | **6** | **7** | **7** |  |  |  |  | **blog.chrizsty.cn** |
-| **web-Fischl0527** | **8** | **8** | **8** |  |  |  |  |  |
+| **web-Fischl0527** | **8** | **8** | **8** |  |  |  |  |  **fischl0527.github.io**|
 | **web-留白** | **9.5** | **9** | **9.5** |  |  |  |  | **liubai.me** |
 | **pwn-themaster** | **8** | **7** | **7** |  |  |  |  |  |
 | **re-Xenon** | **8.5** | **9** | **8** |  |  |  |  | **xenonpeach.top** |
